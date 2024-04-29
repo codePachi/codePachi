@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8xdzVmYWgyMmo5bXBwcjFva2lleGd1aG15NGJ4YnhxMDNhdmZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PjgW1x7zKnRQdq1k3i/giphy.gif" width="180px" />
   <div align="center">
-    <a href="https://www.linkedin.com/in/maximiliano-ruben-moreno-533595187/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge"/></a>
+    <a href="https://www.linkedin.com/in/codepachi"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge"/></a>
     <a href="mailto:mrn.profesional@gmail.com"><img src="https://img.shields.io/badge/Gmail-dcdcdc?style=for-the-badge&logo=gmail" alt="Gmail Badge"/></a>
   </div>
 </div>
