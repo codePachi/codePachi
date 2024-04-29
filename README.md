@@ -4,7 +4,6 @@
   <div align="center">
     <a href="https://www.linkedin.com/in/maximiliano-ruben-moreno-533595187/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge"/></a>
     <a href="mailto:mrn.profesional@gmail.com"><img src="https://img.shields.io/badge/Gmail-dcdcdc?style=for-the-badge&logo=gmail" alt="Gmail Badge"/></a>
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" alt="Twitter Badge"/>
   </div>
 </div>
 
